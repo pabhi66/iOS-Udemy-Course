@@ -11,6 +11,9 @@ The goal of this tutorial is to take you one step further in your journey of bec
 
 You will program a trivia quiz app, inspired by the awesome “Quiz Up” game. If you have another field of expertise, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
 
+## Finished App
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/Quizzler.gif)
+
 ## What you will learn
 
 * What is a design pattern and how is it used in programming.
